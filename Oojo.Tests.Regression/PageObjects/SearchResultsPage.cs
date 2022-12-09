@@ -4,6 +4,7 @@ using OpenQA.Selenium.Support.UI;
 using SeleniumExtras.PageObjects;
 using SeleniumExtras.WaitHelpers;
 using Serilog;
+#pragma warning disable CS0649
 
 namespace Oojo.Tests.Regression.PageObjects;
 
